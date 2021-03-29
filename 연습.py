@@ -1,3 +1,4 @@
-str1 = "내PC지키미2021"
+str1 = "ABCDEFG"
 
-print(str1[-1])
+print(str1[1: 4])
+
